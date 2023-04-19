@@ -1,6 +1,6 @@
 # Deep Learning Tutorial 
 
-In this tutorial, designed for the TReND Comp Neuro and ML summer school 2023 ([deeplearning.ipynb](deeplearning.ipynb)) we will get hands on building deep neural networks and training them via backproagation. Initially the goal is to **avoid autograd packages**, such as `pytorch` or `jax` at all costs. Coding a deep neural network by hand this will help us gain an understanding of the mathematics going on behind the scenes. At the end we will use `pytorch` to build a much deeper network and see how it performs. Here's the plan: 
+In this tutorial ([deeplearning.ipynb](deeplearning.ipynb)) - designed for the TReND Comp Neuro and ML summer school 2023 - we will get hands on building deep neural networks and training them via backproagation. Initially the goal is to **avoid autograd packages**, such as `pytorch` or `jax` at all costs. Coding a deep neural network by hand this will help us gain an understanding of the mathematics going on behind the scenes. At the end we will use `pytorch` to build a much deeper network and see how it performs. Here's the plan: 
 
 Topics: 
 
